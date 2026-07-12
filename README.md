@@ -1,12 +1,3 @@
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
-
-![GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-blue?style=for-the-badge)
 # 🌟 Model Portfolio Website
 
 A modern, elegant, and fully responsive portfolio website designed for a fashion model. This project focuses on delivering a clean user interface, engaging user experience, and seamless responsiveness across all devices.
@@ -17,7 +8,7 @@ The website showcases a professional portfolio with smooth scrolling, interactiv
 
 ## 🚀 Live Demo
 
-🔗 https://YOUR-GITHUB-PAGES-LINK
+🔗 https://prateek-singh-1210.github.io/model-portfolio-website/
 
 ---
 
@@ -65,11 +56,10 @@ The website showcases a professional portfolio with smooth scrolling, interactiv
 model-portfolio-website/
 │
 ├── assets/
-│   ├── home.png
-│   ├── about.png
-│   ├── gallery.png
-│   ├── contact.png
-│   └── images/
+│   ├── screenshot1.png
+│   ├── screenshot2.png
+│   ├── screenshot3.png
+│   ├── screenshot4.png
 │
 ├── index.html
 ├── style.css
